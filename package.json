@@ -1,0 +1,17 @@
+{
+  "name": "only-web-socket",
+  "version": "1.0.0",
+  "description": "Solo web socket NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ws"
+  ],
+  "author": "Esteban Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.2.3"
+  }
+}
